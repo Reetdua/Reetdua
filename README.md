@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reetdua
-- 👀 I’m interested in Web technologies and Product Management
+- 👀 I’m interested in Web technologies and Tech Products
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on impactful projects
 - 📫 How to reach me : mca23.reetdua@bvicam.in
