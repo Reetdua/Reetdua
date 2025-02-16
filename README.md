@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Reetdua
-- 👀 I’m interested in Web technologies and Tech Products
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in AI Native UX and Product management
+- 🌱 I’m currently writing about HCAI
 - 💞️ I’m looking to collaborate on impactful projects
-- 📫 How to reach me : mca23.reetdua@bvicam.in
+- 📫 How to reach me : reetdua815@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am currently writing a research paper related to UI/UX practices
 
